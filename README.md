@@ -1,7 +1,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 My name is **Batamye Umar Isabirye** but you can call me **Marshud** 
 
-##Some how you have found my secret layer, so I'll have to take you around
+## Some how you have found my secret layer, so I'll have to take you around
 
 **You refer to me as** : He/Him :man:
 
