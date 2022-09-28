@@ -31,6 +31,7 @@ My name is **Batamye Umar Isabirye** but you can call me **Marshud**
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Marshud&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marshud's GitHub Stats" />
 </a>
 
+[![@marshud256's Holopin board](https://holopin.io/api/user/board?user=marshud256)](https://holopin.io/@marshud256)
 
 <!--
 **Marshud/Marshud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
