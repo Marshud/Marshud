@@ -7,7 +7,7 @@ My name is **Batamye Umar Isabirye** but you can call me **Marshud**
 
 ### As for the weapons in my Arsenal for now
 - **Frontend**: HTML, CSS, Javascript *as usual*
-- **Backend**: PHP:fire: , NodeJS, Golang
+- **Backend**: PHP :fire: , NodeJS, Golang
 - **Frameworks**: Laravel, ReactJS, NextJS, VueJS, Bootstrap, Materialize, TailwindCSS
 - **Libraries**: Jquery, Lodash, Sweet Alert, Bootbox, Intervention/Image, CookieJS among others
 - **CI/CD DevOps Tools**:  Docker, Kubernetes, Github Actions
