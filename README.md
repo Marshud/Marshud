@@ -6,18 +6,7 @@ My name is **Batamye Umar Isabirye** but you can call me **Marshud**
 **You refer to me as** : He/Him :man:
 
 ### As for the weapons in my Arsenal for now
-- **Frontend**: HTML, CSS, Javascript *as usual*
-- **Backend**: PHP :fire: , Python
-- **Frameworks**: Laravel, ReactJS, NextJS, VueJS, Bootstrap, Materialize, TailwindCSS
-- **CI/CD DevOps Tools**:  Docker, Kubernetes, Github Actions
-- **Server OS**: I love working with Linux Servers
-- **Databases**: MySQL, MariaDB, Postgres, MongoDB
-- **Caching**: Redis, Memcached
-- **Other Tools**: Postman, MySQL Workbench, Trello, Jira
-- **I keep an special eye on**: Linux, Scaling applications, Automated Deployment, Git and the Server World
-
-## When you need my powers
-* Send me a mail :mailbox: at : ubatamyeonline@gmail.com
+- PHP :fire: , Python,
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/oumar-marshud-9a1666b3/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/marshud256) 
 ---
