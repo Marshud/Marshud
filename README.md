@@ -1,12 +1,6 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-My name is **Batamye Umar Isabirye** but you can call me **Marshud** 
+Software Engineer and Systems Administrator with experience building scalable web applications, backend systems, and deployment infrastructure across startups, enterprise environments, and community-driven organizations. Skilled in PHP, Python, SQL Server, MySQL, Laravel, Symfony, FastAPI, DevOps practices, and cloud/server management.
 
-## Some how you have found my secret layer, so I'll have to take you around
-
-**You refer to me as** : He/Him :man:
-
-### As for the weapons in my Arsenal for now
-- PHP :fire: , Python,
+Now delivering AI Powered applications from JUPYTER Notebooks to user consumable software using the JAX Stack and any related technologies. And sharing the knowledge with the community
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/oumar-marshud-9a1666b3/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/marshud256) 
 ---
