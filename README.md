@@ -1,4 +1,4 @@
-Software Engineer and Systems Administrator with experience building scalable web applications, backend systems, and deployment infrastructure across startups, enterprise environments, and community-driven organizations. Skilled in PHP, Python, SQL Server, MySQL, Laravel, Symfony, FastAPI, DevOps practices, and cloud/server management.
+Software Engineer and Systems Administrator with experience building scalable web applications, backend systems, and deployment infrastructure across startups, enterprise environments, and community-driven organizations. Skilled in PHP, Python, MySQL, Laravel, Symfony, FastAPI, and cloud/server management.
 
 Now delivering AI Powered applications from JUPYTER Notebooks to user consumable software using the JAX Stack and any related technologies. And sharing the knowledge with the community
 
