@@ -1,6 +1,4 @@
-Software Engineer and Systems Administrator with experience building scalable web applications, backend systems, and deployment infrastructure across startups, enterprise environments, and community-driven organizations. Skilled in PHP, Python, MySQL, Laravel, Symfony, FastAPI, and cloud/server management.
-
-Now delivering AI Powered applications from JUPYTER Notebooks to user consumable software using the JAX Stack and any related technologies. And sharing the knowledge with the community
+Software Engineer 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/oumar-marshud-9a1666b3/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/marshud256) 
 ---
